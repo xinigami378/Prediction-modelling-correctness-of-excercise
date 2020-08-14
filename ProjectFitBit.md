@@ -1,7 +1,6 @@
 ---
 title: "Predicting Exercise Manner from fitness device"
-author: "CG"
-date: "July 12, 2015"
+author: "Ansh Raj"
 output: html_document
 ---
 
